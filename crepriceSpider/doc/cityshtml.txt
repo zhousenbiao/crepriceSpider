@@ -1,0 +1,485 @@
+<div class="change_city">
+    <div class="all"><a class="btn" href="/">全国市场&gt;&gt;</a></div>
+      <ul class="line"><li class="bt">A-L</li>      <li class="clearfix">
+       <span class="zimu">A</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('ab');" href="/market/ab/forsale/ALL/11.html?sinceyear=1" title="阿坝"> 阿坝</a></span>
+                <span><a onclick="cityselecta('aks');" href="/market/aks/forsale/ALL/11.html?sinceyear=1" title="阿克苏"> 阿克苏</a></span>
+                <span><a onclick="cityselecta('ale');" href="/market/ale/forsale/ALL/11.html?sinceyear=1" title="阿拉尔"> 阿拉尔</a></span>
+                <span><a onclick="cityselecta('als');" href="/market/als/forsale/ALL/11.html?sinceyear=1" title="阿拉善"> 阿拉善</a></span>
+                <span><a onclick="cityselecta('alt');" href="/market/alt/forsale/ALL/11.html?sinceyear=1" title="阿勒泰"> 阿勒泰</a></span>
+                <span><a onclick="cityselecta('al');" href="/market/al/forsale/ALL/11.html?sinceyear=1" title="阿里"> 阿里</a></span>
+                <span><a onclick="cityselecta('ak');" href="/market/ak/forsale/ALL/11.html?sinceyear=1" title="安康"> 安康</a></span>
+                <span><a onclick="cityselecta('aq');" href="/market/aq/forsale/ALL/11.html?sinceyear=1" title="安庆"> 安庆</a></span>
+                <span><a onclick="cityselecta('anshun');" href="/market/anshun/forsale/ALL/11.html?sinceyear=1" title="安顺"> 安顺</a></span>
+                <span><a onclick="cityselecta('ay');" href="/market/ay/forsale/ALL/11.html?sinceyear=1" title="安阳"> 安阳</a></span>
+                <span><a onclick="cityselecta('as');" href="/market/as/forsale/ALL/11.html?sinceyear=1" title="鞍山"> 鞍山</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">B</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('byne');" href="/market/byne/forsale/ALL/11.html?sinceyear=1" title="巴彦淖尔"> 巴彦淖尔</a></span>
+                <span><a onclick="cityselecta('bazhong');" href="/market/bazhong/forsale/ALL/11.html?sinceyear=1" title="巴中"> 巴中</a></span>
+                <span><a onclick="cityselecta('bazhou');" href="/market/bazhou/forsale/ALL/11.html?sinceyear=1" title="巴州"> 巴州</a></span>
+                <span><a onclick="cityselecta('bc');" href="/market/bc/forsale/ALL/11.html?sinceyear=1" title="白城"> 白城</a></span>
+                <span><a onclick="cityselecta('baisha');" href="/market/baisha/forsale/ALL/11.html?sinceyear=1" title="白沙"> 白沙</a></span>
+                <span><a onclick="cityselecta('baishan');" href="/market/baishan/forsale/ALL/11.html?sinceyear=1" title="白山"> 白山</a></span>
+                <span><a onclick="cityselecta('by');" href="/market/by/forsale/ALL/11.html?sinceyear=1" title="白银"> 白银</a></span>
+                <span><a onclick="cityselecta('baise');" href="/market/baise/forsale/ALL/11.html?sinceyear=1" title="百色"> 百色</a></span>
+                <span><a onclick="cityselecta('bengbu');" href="/market/bengbu/forsale/ALL/11.html?sinceyear=1" title="蚌埠"> 蚌埠</a></span>
+                <span><a onclick="cityselecta('bt');" href="/market/bt/forsale/ALL/11.html?sinceyear=1" title="包头"> 包头</a></span>
+                <span><a onclick="cityselecta('baoji');" href="/market/baoji/forsale/ALL/11.html?sinceyear=1" title="宝鸡"> 宝鸡</a></span>
+                <span><a onclick="cityselecta('bd');" href="/market/bd/forsale/ALL/11.html?sinceyear=1" title="保定"> 保定</a></span>
+                <span><a onclick="cityselecta('bs');" href="/market/bs/forsale/ALL/11.html?sinceyear=1" title="保山"> 保山</a></span>
+                <span><a onclick="cityselecta('baoting');" href="/market/baoting/forsale/ALL/11.html?sinceyear=1" title="保亭"> 保亭</a></span>
+                <span><a onclick="cityselecta('bh');" href="/market/bh/forsale/ALL/11.html?sinceyear=1" title="北海"> 北海</a></span>
+                <span><a onclick="cityselecta('bj');" href="/market/bj/forsale/ALL/11.html?sinceyear=1" title="北京"> 北京</a></span>
+                <span><a onclick="cityselecta('beitun');" href="/market/beitun/forsale/ALL/11.html?sinceyear=1" title="北屯"> 北屯</a></span>
+                <span><a onclick="cityselecta('bx');" href="/market/bx/forsale/ALL/11.html?sinceyear=1" title="本溪"> 本溪</a></span>
+                <span><a onclick="cityselecta('bijie');" href="/market/bijie/forsale/ALL/11.html?sinceyear=1" title="毕节"> 毕节</a></span>
+                <span><a onclick="cityselecta('bz');" href="/market/bz/forsale/ALL/11.html?sinceyear=1" title="滨州"> 滨州</a></span>
+                <span><a onclick="cityselecta('bozhou');" href="/market/bozhou/forsale/ALL/11.html?sinceyear=1" title="亳州"> 亳州</a></span>
+                <span><a onclick="cityselecta('bozhouxj');" href="/market/bozhouxj/forsale/ALL/11.html?sinceyear=1" title="博州"> 博州</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">C</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('cangzhou');" href="/market/cangzhou/forsale/ALL/11.html?sinceyear=1" title="沧州"> 沧州</a></span>
+                <span><a onclick="cityselecta('changdu');" href="/market/changdu/forsale/ALL/11.html?sinceyear=1" title="昌都"> 昌都</a></span>
+                <span><a onclick="cityselecta('cj');" href="/market/cj/forsale/ALL/11.html?sinceyear=1" title="昌吉"> 昌吉</a></span>
+                <span><a onclick="cityselecta('changjiang');" href="/market/changjiang/forsale/ALL/11.html?sinceyear=1" title="昌江"> 昌江</a></span>
+                <span><a onclick="cityselecta('cc');" href="/market/cc/forsale/ALL/11.html?sinceyear=1" title="长春"> 长春</a></span>
+                <span><a onclick="cityselecta('cs');" href="/market/cs/forsale/ALL/11.html?sinceyear=1" title="长沙"> 长沙</a></span>
+                <span><a onclick="cityselecta('changzhi');" href="/market/changzhi/forsale/ALL/11.html?sinceyear=1" title="长治"> 长治</a></span>
+                <span><a onclick="cityselecta('changde');" href="/market/changde/forsale/ALL/11.html?sinceyear=1" title="常德"> 常德</a></span>
+                <span><a onclick="cityselecta('cz');" href="/market/cz/forsale/ALL/11.html?sinceyear=1" title="常州"> 常州</a></span>
+                <span><a onclick="cityselecta('cy');" href="/market/cy/forsale/ALL/11.html?sinceyear=1" title="朝阳"> 朝阳</a></span>
+                <span><a onclick="cityselecta('chaozhou');" href="/market/chaozhou/forsale/ALL/11.html?sinceyear=1" title="潮州"> 潮州</a></span>
+                <span><a onclick="cityselecta('chenzhou');" href="/market/chenzhou/forsale/ALL/11.html?sinceyear=1" title="郴州"> 郴州</a></span>
+                <span><a onclick="cityselecta('cd');" href="/market/cd/forsale/ALL/11.html?sinceyear=1" title="成都"> 成都</a></span>
+                <span><a onclick="cityselecta('chengde');" href="/market/chengde/forsale/ALL/11.html?sinceyear=1" title="承德"> 承德</a></span>
+                <span><a onclick="cityselecta('cm');" href="/market/cm/forsale/ALL/11.html?sinceyear=1" title="澄迈"> 澄迈</a></span>
+                <span><a onclick="cityselecta('chizhou');" href="/market/chizhou/forsale/ALL/11.html?sinceyear=1" title="池州"> 池州</a></span>
+                <span><a onclick="cityselecta('cf');" href="/market/cf/forsale/ALL/11.html?sinceyear=1" title="赤峰"> 赤峰</a></span>
+                <span><a onclick="cityselecta('chongzuo');" href="/market/chongzuo/forsale/ALL/11.html?sinceyear=1" title="崇左"> 崇左</a></span>
+                <span><a onclick="cityselecta('chuzhou');" href="/market/chuzhou/forsale/ALL/11.html?sinceyear=1" title="滁州"> 滁州</a></span>
+                <span><a onclick="cityselecta('cx');" href="/market/cx/forsale/ALL/11.html?sinceyear=1" title="楚雄"> 楚雄</a></span>
+                <span><a onclick="cityselecta('cq');" href="/market/cq/forsale/ALL/11.html?sinceyear=1" title="重庆"> 重庆</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">D</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('dazhou');" href="/market/dazhou/forsale/ALL/11.html?sinceyear=1" title="达州"> 达州</a></span>
+                <span><a onclick="cityselecta('dali');" href="/market/dali/forsale/ALL/11.html?sinceyear=1" title="大理"> 大理</a></span>
+                <span><a onclick="cityselecta('dl');" href="/market/dl/forsale/ALL/11.html?sinceyear=1" title="大连"> 大连</a></span>
+                <span><a onclick="cityselecta('dq');" href="/market/dq/forsale/ALL/11.html?sinceyear=1" title="大庆"> 大庆</a></span>
+                <span><a onclick="cityselecta('dt');" href="/market/dt/forsale/ALL/11.html?sinceyear=1" title="大同"> 大同</a></span>
+                <span><a onclick="cityselecta('dxal');" href="/market/dxal/forsale/ALL/11.html?sinceyear=1" title="大兴安岭"> 大兴安岭</a></span>
+                <span><a onclick="cityselecta('dd');" href="/market/dd/forsale/ALL/11.html?sinceyear=1" title="丹东"> 丹东</a></span>
+                <span><a onclick="cityselecta('danzhou');" href="/market/danzhou/forsale/ALL/11.html?sinceyear=1" title="儋州"> 儋州</a></span>
+                <span><a onclick="cityselecta('dh');" href="/market/dh/forsale/ALL/11.html?sinceyear=1" title="德宏"> 德宏</a></span>
+                <span><a onclick="cityselecta('deyang');" href="/market/deyang/forsale/ALL/11.html?sinceyear=1" title="德阳"> 德阳</a></span>
+                <span><a onclick="cityselecta('dz');" href="/market/dz/forsale/ALL/11.html?sinceyear=1" title="德州"> 德州</a></span>
+                <span><a onclick="cityselecta('diqing');" href="/market/diqing/forsale/ALL/11.html?sinceyear=1" title="迪庆"> 迪庆</a></span>
+                <span><a onclick="cityselecta('da');" href="/market/da/forsale/ALL/11.html?sinceyear=1" title="定安"> 定安</a></span>
+                <span><a onclick="cityselecta('dx');" href="/market/dx/forsale/ALL/11.html?sinceyear=1" title="定西"> 定西</a></span>
+                <span><a onclick="cityselecta('df');" href="/market/df/forsale/ALL/11.html?sinceyear=1" title="东方"> 东方</a></span>
+                <span><a onclick="cityselecta('dg');" href="/market/dg/forsale/ALL/11.html?sinceyear=1" title="东莞"> 东莞</a></span>
+                <span><a onclick="cityselecta('dy');" href="/market/dy/forsale/ALL/11.html?sinceyear=1" title="东营"> 东营</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">E</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('eds');" href="/market/eds/forsale/ALL/11.html?sinceyear=1" title="鄂尔多斯"> 鄂尔多斯</a></span>
+                <span><a onclick="cityselecta('ez');" href="/market/ez/forsale/ALL/11.html?sinceyear=1" title="鄂州"> 鄂州</a></span>
+                <span><a onclick="cityselecta('es');" href="/market/es/forsale/ALL/11.html?sinceyear=1" title="恩施"> 恩施</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">F</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('fcg');" href="/market/fcg/forsale/ALL/11.html?sinceyear=1" title="防城港"> 防城港</a></span>
+                <span><a onclick="cityselecta('fs');" href="/market/fs/forsale/ALL/11.html?sinceyear=1" title="佛山"> 佛山</a></span>
+                <span><a onclick="cityselecta('fz');" href="/market/fz/forsale/ALL/11.html?sinceyear=1" title="福州"> 福州</a></span>
+                <span><a onclick="cityselecta('fushun');" href="/market/fushun/forsale/ALL/11.html?sinceyear=1" title="抚顺"> 抚顺</a></span>
+                <span><a onclick="cityselecta('fuzhou');" href="/market/fuzhou/forsale/ALL/11.html?sinceyear=1" title="抚州"> 抚州</a></span>
+                <span><a onclick="cityselecta('fx');" href="/market/fx/forsale/ALL/11.html?sinceyear=1" title="阜新"> 阜新</a></span>
+                <span><a onclick="cityselecta('fy');" href="/market/fy/forsale/ALL/11.html?sinceyear=1" title="阜阳"> 阜阳</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">G</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('gn');" href="/market/gn/forsale/ALL/11.html?sinceyear=1" title="甘南"> 甘南</a></span>
+                <span><a onclick="cityselecta('ganzi');" href="/market/ganzi/forsale/ALL/11.html?sinceyear=1" title="甘孜"> 甘孜</a></span>
+                <span><a onclick="cityselecta('ganzhou');" href="/market/ganzhou/forsale/ALL/11.html?sinceyear=1" title="赣州"> 赣州</a></span>
+                <span><a onclick="cityselecta('guyuan');" href="/market/guyuan/forsale/ALL/11.html?sinceyear=1" title="固原"> 固原</a></span>
+                <span><a onclick="cityselecta('ga');" href="/market/ga/forsale/ALL/11.html?sinceyear=1" title="广安"> 广安</a></span>
+                <span><a onclick="cityselecta('guangyuan');" href="/market/guangyuan/forsale/ALL/11.html?sinceyear=1" title="广元"> 广元</a></span>
+                <span><a onclick="cityselecta('gz');" href="/market/gz/forsale/ALL/11.html?sinceyear=1" title="广州"> 广州</a></span>
+                <span><a onclick="cityselecta('gg');" href="/market/gg/forsale/ALL/11.html?sinceyear=1" title="贵港"> 贵港</a></span>
+                <span><a onclick="cityselecta('gy');" href="/market/gy/forsale/ALL/11.html?sinceyear=1" title="贵阳"> 贵阳</a></span>
+                <span><a onclick="cityselecta('gl');" href="/market/gl/forsale/ALL/11.html?sinceyear=1" title="桂林"> 桂林</a></span>
+                <span><a onclick="cityselecta('guoluo');" href="/market/guoluo/forsale/ALL/11.html?sinceyear=1" title="果洛"> 果洛</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">H</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('hm');" href="/market/hm/forsale/ALL/11.html?sinceyear=1" title="哈密"> 哈密</a></span>
+                <span><a onclick="cityselecta('hb');" href="/market/hb/forsale/ALL/11.html?sinceyear=1" title="哈尔滨"> 哈尔滨</a></span>
+                <span><a onclick="cityselecta('haibei');" href="/market/haibei/forsale/ALL/11.html?sinceyear=1" title="海北"> 海北</a></span>
+                <span><a onclick="cityselecta('haidong');" href="/market/haidong/forsale/ALL/11.html?sinceyear=1" title="海东"> 海东</a></span>
+                <span><a onclick="cityselecta('hk');" href="/market/hk/forsale/ALL/11.html?sinceyear=1" title="海口"> 海口</a></span>
+                <span><a onclick="cityselecta('hnz');" href="/market/hnz/forsale/ALL/11.html?sinceyear=1" title="海南州"> 海南州</a></span>
+                <span><a onclick="cityselecta('hx');" href="/market/hx/forsale/ALL/11.html?sinceyear=1" title="海西"> 海西</a></span>
+                <span><a onclick="cityselecta('hd');" href="/market/hd/forsale/ALL/11.html?sinceyear=1" title="邯郸"> 邯郸</a></span>
+                <span><a onclick="cityselecta('hanzhong');" href="/market/hanzhong/forsale/ALL/11.html?sinceyear=1" title="汉中"> 汉中</a></span>
+                <span><a onclick="cityselecta('hz');" href="/market/hz/forsale/ALL/11.html?sinceyear=1" title="杭州"> 杭州</a></span>
+                <span><a onclick="cityselecta('hf');" href="/market/hf/forsale/ALL/11.html?sinceyear=1" title="合肥"> 合肥</a></span>
+                <span><a onclick="cityselecta('ht');" href="/market/ht/forsale/ALL/11.html?sinceyear=1" title="和田"> 和田</a></span>
+                <span><a onclick="cityselecta('hc');" href="/market/hc/forsale/ALL/11.html?sinceyear=1" title="河池"> 河池</a></span>
+                <span><a onclick="cityselecta('heyuan');" href="/market/heyuan/forsale/ALL/11.html?sinceyear=1" title="河源"> 河源</a></span>
+                <span><a onclick="cityselecta('heze');" href="/market/heze/forsale/ALL/11.html?sinceyear=1" title="菏泽"> 菏泽</a></span>
+                <span><a onclick="cityselecta('hezhou');" href="/market/hezhou/forsale/ALL/11.html?sinceyear=1" title="贺州"> 贺州</a></span>
+                <span><a onclick="cityselecta('hebi');" href="/market/hebi/forsale/ALL/11.html?sinceyear=1" title="鹤壁"> 鹤壁</a></span>
+                <span><a onclick="cityselecta('hegang');" href="/market/hegang/forsale/ALL/11.html?sinceyear=1" title="鹤岗"> 鹤岗</a></span>
+                <span><a onclick="cityselecta('heihe');" href="/market/heihe/forsale/ALL/11.html?sinceyear=1" title="黑河"> 黑河</a></span>
+                <span><a onclick="cityselecta('hengshui');" href="/market/hengshui/forsale/ALL/11.html?sinceyear=1" title="衡水"> 衡水</a></span>
+                <span><a onclick="cityselecta('hy');" href="/market/hy/forsale/ALL/11.html?sinceyear=1" title="衡阳"> 衡阳</a></span>
+                <span><a onclick="cityselecta('honghe');" href="/market/honghe/forsale/ALL/11.html?sinceyear=1" title="红河"> 红河</a></span>
+                <span><a onclick="cityselecta('hh');" href="/market/hh/forsale/ALL/11.html?sinceyear=1" title="呼和浩特"> 呼和浩特</a></span>
+                <span><a onclick="cityselecta('hlbe');" href="/market/hlbe/forsale/ALL/11.html?sinceyear=1" title="呼伦贝尔"> 呼伦贝尔</a></span>
+                <span><a onclick="cityselecta('huzhou');" href="/market/huzhou/forsale/ALL/11.html?sinceyear=1" title="湖州"> 湖州</a></span>
+                <span><a onclick="cityselecta('hld');" href="/market/hld/forsale/ALL/11.html?sinceyear=1" title="葫芦岛"> 葫芦岛</a></span>
+                <span><a onclick="cityselecta('huaihua');" href="/market/huaihua/forsale/ALL/11.html?sinceyear=1" title="怀化"> 怀化</a></span>
+                <span><a onclick="cityselecta('ha');" href="/market/ha/forsale/ALL/11.html?sinceyear=1" title="淮安"> 淮安</a></span>
+                <span><a onclick="cityselecta('huaibei');" href="/market/huaibei/forsale/ALL/11.html?sinceyear=1" title="淮北"> 淮北</a></span>
+                <span><a onclick="cityselecta('hn');" href="/market/hn/forsale/ALL/11.html?sinceyear=1" title="淮南"> 淮南</a></span>
+                <span><a onclick="cityselecta('hg');" href="/market/hg/forsale/ALL/11.html?sinceyear=1" title="黄冈"> 黄冈</a></span>
+                <span><a onclick="cityselecta('huangnan');" href="/market/huangnan/forsale/ALL/11.html?sinceyear=1" title="黄南"> 黄南</a></span>
+                <span><a onclick="cityselecta('huangshan');" href="/market/huangshan/forsale/ALL/11.html?sinceyear=1" title="黄山"> 黄山</a></span>
+                <span><a onclick="cityselecta('hs');" href="/market/hs/forsale/ALL/11.html?sinceyear=1" title="黄石"> 黄石</a></span>
+                <span><a onclick="cityselecta('huizhou');" href="/market/huizhou/forsale/ALL/11.html?sinceyear=1" title="惠州"> 惠州</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">J</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('jixi');" href="/market/jixi/forsale/ALL/11.html?sinceyear=1" title="鸡西"> 鸡西</a></span>
+                <span><a onclick="cityselecta('ja');" href="/market/ja/forsale/ALL/11.html?sinceyear=1" title="吉安"> 吉安</a></span>
+                <span><a onclick="cityselecta('jl');" href="/market/jl/forsale/ALL/11.html?sinceyear=1" title="吉林"> 吉林</a></span>
+                <span><a onclick="cityselecta('jn');" href="/market/jn/forsale/ALL/11.html?sinceyear=1" title="济南"> 济南</a></span>
+                <span><a onclick="cityselecta('jining');" href="/market/jining/forsale/ALL/11.html?sinceyear=1" title="济宁"> 济宁</a></span>
+                <span><a onclick="cityselecta('jiyuan');" href="/market/jiyuan/forsale/ALL/11.html?sinceyear=1" title="济源"> 济源</a></span>
+                <span><a onclick="cityselecta('jms');" href="/market/jms/forsale/ALL/11.html?sinceyear=1" title="佳木斯"> 佳木斯</a></span>
+                <span><a onclick="cityselecta('jx');" href="/market/jx/forsale/ALL/11.html?sinceyear=1" title="嘉兴"> 嘉兴</a></span>
+                <span><a onclick="cityselecta('jyg');" href="/market/jyg/forsale/ALL/11.html?sinceyear=1" title="嘉峪关"> 嘉峪关</a></span>
+                <span><a onclick="cityselecta('jm');" href="/market/jm/forsale/ALL/11.html?sinceyear=1" title="江门"> 江门</a></span>
+                <span><a onclick="cityselecta('jiaozuo');" href="/market/jiaozuo/forsale/ALL/11.html?sinceyear=1" title="焦作"> 焦作</a></span>
+                <span><a onclick="cityselecta('jy');" href="/market/jy/forsale/ALL/11.html?sinceyear=1" title="揭阳"> 揭阳</a></span>
+                <span><a onclick="cityselecta('jinchang');" href="/market/jinchang/forsale/ALL/11.html?sinceyear=1" title="金昌"> 金昌</a></span>
+                <span><a onclick="cityselecta('jh');" href="/market/jh/forsale/ALL/11.html?sinceyear=1" title="金华"> 金华</a></span>
+                <span><a onclick="cityselecta('jz');" href="/market/jz/forsale/ALL/11.html?sinceyear=1" title="锦州"> 锦州</a></span>
+                <span><a onclick="cityselecta('jc');" href="/market/jc/forsale/ALL/11.html?sinceyear=1" title="晋城"> 晋城</a></span>
+                <span><a onclick="cityselecta('jinzhong');" href="/market/jinzhong/forsale/ALL/11.html?sinceyear=1" title="晋中"> 晋中</a></span>
+                <span><a onclick="cityselecta('jingmen');" href="/market/jingmen/forsale/ALL/11.html?sinceyear=1" title="荆门"> 荆门</a></span>
+                <span><a onclick="cityselecta('jingzhou');" href="/market/jingzhou/forsale/ALL/11.html?sinceyear=1" title="荆州"> 荆州</a></span>
+                <span><a onclick="cityselecta('jdz');" href="/market/jdz/forsale/ALL/11.html?sinceyear=1" title="景德镇"> 景德镇</a></span>
+                <span><a onclick="cityselecta('jj');" href="/market/jj/forsale/ALL/11.html?sinceyear=1" title="九江"> 九江</a></span>
+                <span><a onclick="cityselecta('jq');" href="/market/jq/forsale/ALL/11.html?sinceyear=1" title="酒泉"> 酒泉</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">K</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('ks');" href="/market/ks/forsale/ALL/11.html?sinceyear=1" title="喀什"> 喀什</a></span>
+                <span><a onclick="cityselecta('kf');" href="/market/kf/forsale/ALL/11.html?sinceyear=1" title="开封"> 开封</a></span>
+                <span><a onclick="cityselecta('kkdl');" href="/market/kkdl/forsale/ALL/11.html?sinceyear=1" title="可克达拉"> 可克达拉</a></span>
+                <span><a onclick="cityselecta('klmy');" href="/market/klmy/forsale/ALL/11.html?sinceyear=1" title="克拉玛依"> 克拉玛依</a></span>
+                <span><a onclick="cityselecta('kz');" href="/market/kz/forsale/ALL/11.html?sinceyear=1" title="克州"> 克州</a></span>
+                <span><a onclick="cityselecta('km');" href="/market/km/forsale/ALL/11.html?sinceyear=1" title="昆明"> 昆明</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">L</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('lasa');" href="/market/lasa/forsale/ALL/11.html?sinceyear=1" title="拉萨"> 拉萨</a></span>
+                <span><a onclick="cityselecta('lb');" href="/market/lb/forsale/ALL/11.html?sinceyear=1" title="来宾"> 来宾</a></span>
+                <span><a onclick="cityselecta('lw');" href="/market/lw/forsale/ALL/11.html?sinceyear=1" title="莱芜"> 莱芜</a></span>
+                <span><a onclick="cityselecta('lz');" href="/market/lz/forsale/ALL/11.html?sinceyear=1" title="兰州"> 兰州</a></span>
+                <span><a onclick="cityselecta('lf');" href="/market/lf/forsale/ALL/11.html?sinceyear=1" title="廊坊"> 廊坊</a></span>
+                <span><a onclick="cityselecta('ledong');" href="/market/ledong/forsale/ALL/11.html?sinceyear=1" title="乐东"> 乐东</a></span>
+                <span><a onclick="cityselecta('leshan');" href="/market/leshan/forsale/ALL/11.html?sinceyear=1" title="乐山"> 乐山</a></span>
+                <span><a onclick="cityselecta('lj');" href="/market/lj/forsale/ALL/11.html?sinceyear=1" title="丽江"> 丽江</a></span>
+                <span><a onclick="cityselecta('ls');" href="/market/ls/forsale/ALL/11.html?sinceyear=1" title="丽水"> 丽水</a></span>
+                <span><a onclick="cityselecta('lyg');" href="/market/lyg/forsale/ALL/11.html?sinceyear=1" title="连云港"> 连云港</a></span>
+                <span><a onclick="cityselecta('liangshan');" href="/market/liangshan/forsale/ALL/11.html?sinceyear=1" title="凉山"> 凉山</a></span>
+                <span><a onclick="cityselecta('liaoyang');" href="/market/liaoyang/forsale/ALL/11.html?sinceyear=1" title="辽阳"> 辽阳</a></span>
+                <span><a onclick="cityselecta('liaoyuan');" href="/market/liaoyuan/forsale/ALL/11.html?sinceyear=1" title="辽源"> 辽源</a></span>
+                <span><a onclick="cityselecta('lc');" href="/market/lc/forsale/ALL/11.html?sinceyear=1" title="聊城"> 聊城</a></span>
+                <span><a onclick="cityselecta('linzhi');" href="/market/linzhi/forsale/ALL/11.html?sinceyear=1" title="林芝"> 林芝</a></span>
+                <span><a onclick="cityselecta('lincang');" href="/market/lincang/forsale/ALL/11.html?sinceyear=1" title="临沧"> 临沧</a></span>
+                <span><a onclick="cityselecta('linfen');" href="/market/linfen/forsale/ALL/11.html?sinceyear=1" title="临汾"> 临汾</a></span>
+                <span><a onclick="cityselecta('lg');" href="/market/lg/forsale/ALL/11.html?sinceyear=1" title="临高"> 临高</a></span>
+                <span><a onclick="cityselecta('lx');" href="/market/lx/forsale/ALL/11.html?sinceyear=1" title="临夏"> 临夏</a></span>
+                <span><a onclick="cityselecta('linyi');" href="/market/linyi/forsale/ALL/11.html?sinceyear=1" title="临沂"> 临沂</a></span>
+                <span><a onclick="cityselecta('lingshui');" href="/market/lingshui/forsale/ALL/11.html?sinceyear=1" title="陵水"> 陵水</a></span>
+                <span><a onclick="cityselecta('liuzhou');" href="/market/liuzhou/forsale/ALL/11.html?sinceyear=1" title="柳州"> 柳州</a></span>
+                <span><a onclick="cityselecta('la');" href="/market/la/forsale/ALL/11.html?sinceyear=1" title="六安"> 六安</a></span>
+                <span><a onclick="cityselecta('lps');" href="/market/lps/forsale/ALL/11.html?sinceyear=1" title="六盘水"> 六盘水</a></span>
+                <span><a onclick="cityselecta('longyan');" href="/market/longyan/forsale/ALL/11.html?sinceyear=1" title="龙岩"> 龙岩</a></span>
+                <span><a onclick="cityselecta('ln');" href="/market/ln/forsale/ALL/11.html?sinceyear=1" title="陇南"> 陇南</a></span>
+                <span><a onclick="cityselecta('ld');" href="/market/ld/forsale/ALL/11.html?sinceyear=1" title="娄底"> 娄底</a></span>
+                <span><a onclick="cityselecta('luzhou');" href="/market/luzhou/forsale/ALL/11.html?sinceyear=1" title="泸州"> 泸州</a></span>
+                <span><a onclick="cityselecta('ll');" href="/market/ll/forsale/ALL/11.html?sinceyear=1" title="吕梁"> 吕梁</a></span>
+                <span><a onclick="cityselecta('ly');" href="/market/ly/forsale/ALL/11.html?sinceyear=1" title="洛阳"> 洛阳</a></span>
+                <span><a onclick="cityselecta('lh');" href="/market/lh/forsale/ALL/11.html?sinceyear=1" title="漯河"> 漯河</a></span>
+                  </div>
+      </li>
+      </ul>		  <ul><li class="bt">M-Z</li>      <li class="clearfix">
+       <span class="zimu">M</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('mas');" href="/market/mas/forsale/ALL/11.html?sinceyear=1" title="马鞍山"> 马鞍山</a></span>
+                <span><a onclick="cityselecta('mm');" href="/market/mm/forsale/ALL/11.html?sinceyear=1" title="茂名"> 茂名</a></span>
+                <span><a onclick="cityselecta('ms');" href="/market/ms/forsale/ALL/11.html?sinceyear=1" title="眉山"> 眉山</a></span>
+                <span><a onclick="cityselecta('mz');" href="/market/mz/forsale/ALL/11.html?sinceyear=1" title="梅州"> 梅州</a></span>
+                <span><a onclick="cityselecta('my');" href="/market/my/forsale/ALL/11.html?sinceyear=1" title="绵阳"> 绵阳</a></span>
+                <span><a onclick="cityselecta('mdj');" href="/market/mdj/forsale/ALL/11.html?sinceyear=1" title="牡丹江"> 牡丹江</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">N</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('neijiang');" href="/market/neijiang/forsale/ALL/11.html?sinceyear=1" title="内江"> 内江</a></span>
+                <span><a onclick="cityselecta('nq');" href="/market/nq/forsale/ALL/11.html?sinceyear=1" title="那曲"> 那曲</a></span>
+                <span><a onclick="cityselecta('nc');" href="/market/nc/forsale/ALL/11.html?sinceyear=1" title="南昌"> 南昌</a></span>
+                <span><a onclick="cityselecta('nanchong');" href="/market/nanchong/forsale/ALL/11.html?sinceyear=1" title="南充"> 南充</a></span>
+                <span><a onclick="cityselecta('nj');" href="/market/nj/forsale/ALL/11.html?sinceyear=1" title="南京"> 南京</a></span>
+                <span><a onclick="cityselecta('nn');" href="/market/nn/forsale/ALL/11.html?sinceyear=1" title="南宁"> 南宁</a></span>
+                <span><a onclick="cityselecta('np');" href="/market/np/forsale/ALL/11.html?sinceyear=1" title="南平"> 南平</a></span>
+                <span><a onclick="cityselecta('nt');" href="/market/nt/forsale/ALL/11.html?sinceyear=1" title="南通"> 南通</a></span>
+                <span><a onclick="cityselecta('ny');" href="/market/ny/forsale/ALL/11.html?sinceyear=1" title="南阳"> 南阳</a></span>
+                <span><a onclick="cityselecta('nb');" href="/market/nb/forsale/ALL/11.html?sinceyear=1" title="宁波"> 宁波</a></span>
+                <span><a onclick="cityselecta('nd');" href="/market/nd/forsale/ALL/11.html?sinceyear=1" title="宁德"> 宁德</a></span>
+                <span><a onclick="cityselecta('nujiang');" href="/market/nujiang/forsale/ALL/11.html?sinceyear=1" title="怒江"> 怒江</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">P</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('pzh');" href="/market/pzh/forsale/ALL/11.html?sinceyear=1" title="攀枝花"> 攀枝花</a></span>
+                <span><a onclick="cityselecta('pj');" href="/market/pj/forsale/ALL/11.html?sinceyear=1" title="盘锦"> 盘锦</a></span>
+                <span><a onclick="cityselecta('pds');" href="/market/pds/forsale/ALL/11.html?sinceyear=1" title="平顶山"> 平顶山</a></span>
+                <span><a onclick="cityselecta('pl');" href="/market/pl/forsale/ALL/11.html?sinceyear=1" title="平凉"> 平凉</a></span>
+                <span><a onclick="cityselecta('px');" href="/market/px/forsale/ALL/11.html?sinceyear=1" title="萍乡"> 萍乡</a></span>
+                <span><a onclick="cityselecta('pt');" href="/market/pt/forsale/ALL/11.html?sinceyear=1" title="莆田"> 莆田</a></span>
+                <span><a onclick="cityselecta('py');" href="/market/py/forsale/ALL/11.html?sinceyear=1" title="濮阳"> 濮阳</a></span>
+                <span><a onclick="cityselecta('pe');" href="/market/pe/forsale/ALL/11.html?sinceyear=1" title="普洱"> 普洱</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">Q</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('qth');" href="/market/qth/forsale/ALL/11.html?sinceyear=1" title="七台河"> 七台河</a></span>
+                <span><a onclick="cityselecta('qq');" href="/market/qq/forsale/ALL/11.html?sinceyear=1" title="齐齐哈尔"> 齐齐哈尔</a></span>
+                <span><a onclick="cityselecta('qianjiang');" href="/market/qianjiang/forsale/ALL/11.html?sinceyear=1" title="潜江"> 潜江</a></span>
+                <span><a onclick="cityselecta('qdn');" href="/market/qdn/forsale/ALL/11.html?sinceyear=1" title="黔东南"> 黔东南</a></span>
+                <span><a onclick="cityselecta('qn');" href="/market/qn/forsale/ALL/11.html?sinceyear=1" title="黔南"> 黔南</a></span>
+                <span><a onclick="cityselecta('qxn');" href="/market/qxn/forsale/ALL/11.html?sinceyear=1" title="黔西南"> 黔西南</a></span>
+                <span><a onclick="cityselecta('qinzhou');" href="/market/qinzhou/forsale/ALL/11.html?sinceyear=1" title="钦州"> 钦州</a></span>
+                <span><a onclick="cityselecta('qhd');" href="/market/qhd/forsale/ALL/11.html?sinceyear=1" title="秦皇岛"> 秦皇岛</a></span>
+                <span><a onclick="cityselecta('qd');" href="/market/qd/forsale/ALL/11.html?sinceyear=1" title="青岛"> 青岛</a></span>
+                <span><a onclick="cityselecta('qy');" href="/market/qy/forsale/ALL/11.html?sinceyear=1" title="清远"> 清远</a></span>
+                <span><a onclick="cityselecta('qingyang');" href="/market/qingyang/forsale/ALL/11.html?sinceyear=1" title="庆阳"> 庆阳</a></span>
+                <span><a onclick="cityselecta('qh');" href="/market/qh/forsale/ALL/11.html?sinceyear=1" title="琼海"> 琼海</a></span>
+                <span><a onclick="cityselecta('qiongzhong');" href="/market/qiongzhong/forsale/ALL/11.html?sinceyear=1" title="琼中"> 琼中</a></span>
+                <span><a onclick="cityselecta('qj');" href="/market/qj/forsale/ALL/11.html?sinceyear=1" title="曲靖"> 曲靖</a></span>
+                <span><a onclick="cityselecta('quzhou');" href="/market/quzhou/forsale/ALL/11.html?sinceyear=1" title="衢州"> 衢州</a></span>
+                <span><a onclick="cityselecta('qz');" href="/market/qz/forsale/ALL/11.html?sinceyear=1" title="泉州"> 泉州</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">R</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('rkz');" href="/market/rkz/forsale/ALL/11.html?sinceyear=1" title="日喀则"> 日喀则</a></span>
+                <span><a onclick="cityselecta('rz');" href="/market/rz/forsale/ALL/11.html?sinceyear=1" title="日照"> 日照</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">S</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('smx');" href="/market/smx/forsale/ALL/11.html?sinceyear=1" title="三门峡"> 三门峡</a></span>
+                <span><a onclick="cityselecta('sm');" href="/market/sm/forsale/ALL/11.html?sinceyear=1" title="三明"> 三明</a></span>
+                <span><a onclick="cityselecta('ss');" href="/market/ss/forsale/ALL/11.html?sinceyear=1" title="三沙"> 三沙</a></span>
+                <span><a onclick="cityselecta('sanya');" href="/market/sanya/forsale/ALL/11.html?sinceyear=1" title="三亚"> 三亚</a></span>
+                <span><a onclick="cityselecta('shannan');" href="/market/shannan/forsale/ALL/11.html?sinceyear=1" title="山南"> 山南</a></span>
+                <span><a onclick="cityselecta('st');" href="/market/st/forsale/ALL/11.html?sinceyear=1" title="汕头"> 汕头</a></span>
+                <span><a onclick="cityselecta('sw');" href="/market/sw/forsale/ALL/11.html?sinceyear=1" title="汕尾"> 汕尾</a></span>
+                <span><a onclick="cityselecta('sl');" href="/market/sl/forsale/ALL/11.html?sinceyear=1" title="商洛"> 商洛</a></span>
+                <span><a onclick="cityselecta('shangqiu');" href="/market/shangqiu/forsale/ALL/11.html?sinceyear=1" title="商丘"> 商丘</a></span>
+                <span><a onclick="cityselecta('sh');" href="/market/sh/forsale/ALL/11.html?sinceyear=1" title="上海"> 上海</a></span>
+                <span><a onclick="cityselecta('sr');" href="/market/sr/forsale/ALL/11.html?sinceyear=1" title="上饶"> 上饶</a></span>
+                <span><a onclick="cityselecta('sg');" href="/market/sg/forsale/ALL/11.html?sinceyear=1" title="韶关"> 韶关</a></span>
+                <span><a onclick="cityselecta('shaoyang');" href="/market/shaoyang/forsale/ALL/11.html?sinceyear=1" title="邵阳"> 邵阳</a></span>
+                <span><a onclick="cityselecta('sx');" href="/market/sx/forsale/ALL/11.html?sinceyear=1" title="绍兴"> 绍兴</a></span>
+                <span><a onclick="cityselecta('sz');" href="/market/sz/forsale/ALL/11.html?sinceyear=1" title="深圳"> 深圳</a></span>
+                <span><a onclick="cityselecta('snj');" href="/market/snj/forsale/ALL/11.html?sinceyear=1" title="神农架"> 神农架</a></span>
+                <span><a onclick="cityselecta('sy');" href="/market/sy/forsale/ALL/11.html?sinceyear=1" title="沈阳"> 沈阳</a></span>
+                <span><a onclick="cityselecta('shiyan');" href="/market/shiyan/forsale/ALL/11.html?sinceyear=1" title="十堰"> 十堰</a></span>
+                <span><a onclick="cityselecta('shz');" href="/market/shz/forsale/ALL/11.html?sinceyear=1" title="石河子"> 石河子</a></span>
+                <span><a onclick="cityselecta('sj');" href="/market/sj/forsale/ALL/11.html?sinceyear=1" title="石家庄"> 石家庄</a></span>
+                <span><a onclick="cityselecta('szs');" href="/market/szs/forsale/ALL/11.html?sinceyear=1" title="石嘴山"> 石嘴山</a></span>
+                <span><a onclick="cityselecta('shuanghe');" href="/market/shuanghe/forsale/ALL/11.html?sinceyear=1" title="双河"> 双河</a></span>
+                <span><a onclick="cityselecta('sys');" href="/market/sys/forsale/ALL/11.html?sinceyear=1" title="双鸭山"> 双鸭山</a></span>
+                <span><a onclick="cityselecta('shuozhou');" href="/market/shuozhou/forsale/ALL/11.html?sinceyear=1" title="朔州"> 朔州</a></span>
+                <span><a onclick="cityselecta('sp');" href="/market/sp/forsale/ALL/11.html?sinceyear=1" title="四平"> 四平</a></span>
+                <span><a onclick="cityselecta('songyuan');" href="/market/songyuan/forsale/ALL/11.html?sinceyear=1" title="松原"> 松原</a></span>
+                <span><a onclick="cityselecta('su');" href="/market/su/forsale/ALL/11.html?sinceyear=1" title="苏州"> 苏州</a></span>
+                <span><a onclick="cityselecta('sq');" href="/market/sq/forsale/ALL/11.html?sinceyear=1" title="宿迁"> 宿迁</a></span>
+                <span><a onclick="cityselecta('suzhouah');" href="/market/suzhouah/forsale/ALL/11.html?sinceyear=1" title="宿州"> 宿州</a></span>
+                <span><a onclick="cityselecta('suihua');" href="/market/suihua/forsale/ALL/11.html?sinceyear=1" title="绥化"> 绥化</a></span>
+                <span><a onclick="cityselecta('suizhou');" href="/market/suizhou/forsale/ALL/11.html?sinceyear=1" title="随州"> 随州</a></span>
+                <span><a onclick="cityselecta('sn');" href="/market/sn/forsale/ALL/11.html?sinceyear=1" title="遂宁"> 遂宁</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">T</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('tacheng');" href="/market/tacheng/forsale/ALL/11.html?sinceyear=1" title="塔城"> 塔城</a></span>
+                <span><a onclick="cityselecta('tz');" href="/market/tz/forsale/ALL/11.html?sinceyear=1" title="台州"> 台州</a></span>
+                <span><a onclick="cityselecta('ty');" href="/market/ty/forsale/ALL/11.html?sinceyear=1" title="太原"> 太原</a></span>
+                <span><a onclick="cityselecta('taian');" href="/market/taian/forsale/ALL/11.html?sinceyear=1" title="泰安"> 泰安</a></span>
+                <span><a onclick="cityselecta('taizhoujs');" href="/market/taizhoujs/forsale/ALL/11.html?sinceyear=1" title="泰州"> 泰州</a></span>
+                <span><a onclick="cityselecta('ts');" href="/market/ts/forsale/ALL/11.html?sinceyear=1" title="唐山"> 唐山</a></span>
+                <span><a onclick="cityselecta('tj');" href="/market/tj/forsale/ALL/11.html?sinceyear=1" title="天津"> 天津</a></span>
+                <span><a onclick="cityselecta('tm');" href="/market/tm/forsale/ALL/11.html?sinceyear=1" title="天门"> 天门</a></span>
+                <span><a onclick="cityselecta('tianshui');" href="/market/tianshui/forsale/ALL/11.html?sinceyear=1" title="天水"> 天水</a></span>
+                <span><a onclick="cityselecta('tieling');" href="/market/tieling/forsale/ALL/11.html?sinceyear=1" title="铁岭"> 铁岭</a></span>
+                <span><a onclick="cityselecta('tmg');" href="/market/tmg/forsale/ALL/11.html?sinceyear=1" title="铁门关"> 铁门关</a></span>
+                <span><a onclick="cityselecta('th');" href="/market/th/forsale/ALL/11.html?sinceyear=1" title="通化"> 通化</a></span>
+                <span><a onclick="cityselecta('tl');" href="/market/tl/forsale/ALL/11.html?sinceyear=1" title="通辽"> 通辽</a></span>
+                <span><a onclick="cityselecta('tc');" href="/market/tc/forsale/ALL/11.html?sinceyear=1" title="铜川"> 铜川</a></span>
+                <span><a onclick="cityselecta('tongling');" href="/market/tongling/forsale/ALL/11.html?sinceyear=1" title="铜陵"> 铜陵</a></span>
+                <span><a onclick="cityselecta('tr');" href="/market/tr/forsale/ALL/11.html?sinceyear=1" title="铜仁"> 铜仁</a></span>
+                <span><a onclick="cityselecta('tmsk');" href="/market/tmsk/forsale/ALL/11.html?sinceyear=1" title="图木舒克"> 图木舒克</a></span>
+                <span><a onclick="cityselecta('tlf');" href="/market/tlf/forsale/ALL/11.html?sinceyear=1" title="吐鲁番"> 吐鲁番</a></span>
+                <span><a onclick="cityselecta('tunchang');" href="/market/tunchang/forsale/ALL/11.html?sinceyear=1" title="屯昌"> 屯昌</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">W</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('wanning');" href="/market/wanning/forsale/ALL/11.html?sinceyear=1" title="万宁"> 万宁</a></span>
+                <span><a onclick="cityselecta('weihai');" href="/market/weihai/forsale/ALL/11.html?sinceyear=1" title="威海"> 威海</a></span>
+                <span><a onclick="cityselecta('wf');" href="/market/wf/forsale/ALL/11.html?sinceyear=1" title="潍坊"> 潍坊</a></span>
+                <span><a onclick="cityselecta('wn');" href="/market/wn/forsale/ALL/11.html?sinceyear=1" title="渭南"> 渭南</a></span>
+                <span><a onclick="cityselecta('wz');" href="/market/wz/forsale/ALL/11.html?sinceyear=1" title="温州"> 温州</a></span>
+                <span><a onclick="cityselecta('wc');" href="/market/wc/forsale/ALL/11.html?sinceyear=1" title="文昌"> 文昌</a></span>
+                <span><a onclick="cityselecta('ws');" href="/market/ws/forsale/ALL/11.html?sinceyear=1" title="文山"> 文山</a></span>
+                <span><a onclick="cityselecta('wuhai');" href="/market/wuhai/forsale/ALL/11.html?sinceyear=1" title="乌海"> 乌海</a></span>
+                <span><a onclick="cityselecta('wlcb');" href="/market/wlcb/forsale/ALL/11.html?sinceyear=1" title="乌兰察布"> 乌兰察布</a></span>
+                <span><a onclick="cityselecta('wl');" href="/market/wl/forsale/ALL/11.html?sinceyear=1" title="乌鲁木齐"> 乌鲁木齐</a></span>
+                <span><a onclick="cityselecta('wx');" href="/market/wx/forsale/ALL/11.html?sinceyear=1" title="无锡"> 无锡</a></span>
+                <span><a onclick="cityselecta('wuzhong');" href="/market/wuzhong/forsale/ALL/11.html?sinceyear=1" title="吴忠"> 吴忠</a></span>
+                <span><a onclick="cityselecta('wuhu');" href="/market/wuhu/forsale/ALL/11.html?sinceyear=1" title="芜湖"> 芜湖</a></span>
+                <span><a onclick="cityselecta('wuzhou');" href="/market/wuzhou/forsale/ALL/11.html?sinceyear=1" title="梧州"> 梧州</a></span>
+                <span><a onclick="cityselecta('wjq');" href="/market/wjq/forsale/ALL/11.html?sinceyear=1" title="五家渠"> 五家渠</a></span>
+                <span><a onclick="cityselecta('wzs');" href="/market/wzs/forsale/ALL/11.html?sinceyear=1" title="五指山"> 五指山</a></span>
+                <span><a onclick="cityselecta('wh');" href="/market/wh/forsale/ALL/11.html?sinceyear=1" title="武汉"> 武汉</a></span>
+                <span><a onclick="cityselecta('ww');" href="/market/ww/forsale/ALL/11.html?sinceyear=1" title="武威"> 武威</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">X</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('xa');" href="/market/xa/forsale/ALL/11.html?sinceyear=1" title="西安"> 西安</a></span>
+                <span><a onclick="cityselecta('xn');" href="/market/xn/forsale/ALL/11.html?sinceyear=1" title="西宁"> 西宁</a></span>
+                <span><a onclick="cityselecta('xsbn');" href="/market/xsbn/forsale/ALL/11.html?sinceyear=1" title="西双版纳"> 西双版纳</a></span>
+                <span><a onclick="cityselecta('xlgl');" href="/market/xlgl/forsale/ALL/11.html?sinceyear=1" title="锡林郭勒"> 锡林郭勒</a></span>
+                <span><a onclick="cityselecta('xm');" href="/market/xm/forsale/ALL/11.html?sinceyear=1" title="厦门"> 厦门</a></span>
+                <span><a onclick="cityselecta('xiantao');" href="/market/xiantao/forsale/ALL/11.html?sinceyear=1" title="仙桃"> 仙桃</a></span>
+                <span><a onclick="cityselecta('xianning');" href="/market/xianning/forsale/ALL/11.html?sinceyear=1" title="咸宁"> 咸宁</a></span>
+                <span><a onclick="cityselecta('xianyang');" href="/market/xianyang/forsale/ALL/11.html?sinceyear=1" title="咸阳"> 咸阳</a></span>
+                <span><a onclick="cityselecta('xiangtan');" href="/market/xiangtan/forsale/ALL/11.html?sinceyear=1" title="湘潭"> 湘潭</a></span>
+                <span><a onclick="cityselecta('xx');" href="/market/xx/forsale/ALL/11.html?sinceyear=1" title="湘西"> 湘西</a></span>
+                <span><a onclick="cityselecta('xy');" href="/market/xy/forsale/ALL/11.html?sinceyear=1" title="襄阳"> 襄阳</a></span>
+                <span><a onclick="cityselecta('xg');" href="/market/xg/forsale/ALL/11.html?sinceyear=1" title="孝感"> 孝感</a></span>
+                <span><a onclick="cityselecta('xinzhou');" href="/market/xinzhou/forsale/ALL/11.html?sinceyear=1" title="忻州"> 忻州</a></span>
+                <span><a onclick="cityselecta('xinxiang');" href="/market/xinxiang/forsale/ALL/11.html?sinceyear=1" title="新乡"> 新乡</a></span>
+                <span><a onclick="cityselecta('xinyu');" href="/market/xinyu/forsale/ALL/11.html?sinceyear=1" title="新余"> 新余</a></span>
+                <span><a onclick="cityselecta('xinyang');" href="/market/xinyang/forsale/ALL/11.html?sinceyear=1" title="信阳"> 信阳</a></span>
+                <span><a onclick="cityselecta('xingan');" href="/market/xingan/forsale/ALL/11.html?sinceyear=1" title="兴安"> 兴安</a></span>
+                <span><a onclick="cityselecta('xt');" href="/market/xt/forsale/ALL/11.html?sinceyear=1" title="邢台"> 邢台</a></span>
+                <span><a onclick="cityselecta('xz');" href="/market/xz/forsale/ALL/11.html?sinceyear=1" title="徐州"> 徐州</a></span>
+                <span><a onclick="cityselecta('xc');" href="/market/xc/forsale/ALL/11.html?sinceyear=1" title="许昌"> 许昌</a></span>
+                <span><a onclick="cityselecta('xuancheng');" href="/market/xuancheng/forsale/ALL/11.html?sinceyear=1" title="宣城"> 宣城</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">Y</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('yaan');" href="/market/yaan/forsale/ALL/11.html?sinceyear=1" title="雅安"> 雅安</a></span>
+                <span><a onclick="cityselecta('yt');" href="/market/yt/forsale/ALL/11.html?sinceyear=1" title="烟台"> 烟台</a></span>
+                <span><a onclick="cityselecta('ya');" href="/market/ya/forsale/ALL/11.html?sinceyear=1" title="延安"> 延安</a></span>
+                <span><a onclick="cityselecta('yanbian');" href="/market/yanbian/forsale/ALL/11.html?sinceyear=1" title="延边"> 延边</a></span>
+                <span><a onclick="cityselecta('yancheng');" href="/market/yancheng/forsale/ALL/11.html?sinceyear=1" title="盐城"> 盐城</a></span>
+                <span><a onclick="cityselecta('yz');" href="/market/yz/forsale/ALL/11.html?sinceyear=1" title="扬州"> 扬州</a></span>
+                <span><a onclick="cityselecta('yj');" href="/market/yj/forsale/ALL/11.html?sinceyear=1" title="阳江"> 阳江</a></span>
+                <span><a onclick="cityselecta('yq');" href="/market/yq/forsale/ALL/11.html?sinceyear=1" title="阳泉"> 阳泉</a></span>
+                <span><a onclick="cityselecta('yichun');" href="/market/yichun/forsale/ALL/11.html?sinceyear=1" title="伊春"> 伊春</a></span>
+                <span><a onclick="cityselecta('yili');" href="/market/yili/forsale/ALL/11.html?sinceyear=1" title="伊犁"> 伊犁</a></span>
+                <span><a onclick="cityselecta('yb');" href="/market/yb/forsale/ALL/11.html?sinceyear=1" title="宜宾"> 宜宾</a></span>
+                <span><a onclick="cityselecta('yichang');" href="/market/yichang/forsale/ALL/11.html?sinceyear=1" title="宜昌"> 宜昌</a></span>
+                <span><a onclick="cityselecta('yichunjx');" href="/market/yichunjx/forsale/ALL/11.html?sinceyear=1" title="宜春"> 宜春</a></span>
+                <span><a onclick="cityselecta('yiyang');" href="/market/yiyang/forsale/ALL/11.html?sinceyear=1" title="益阳"> 益阳</a></span>
+                <span><a onclick="cityselecta('yc');" href="/market/yc/forsale/ALL/11.html?sinceyear=1" title="银川"> 银川</a></span>
+                <span><a onclick="cityselecta('yingtan');" href="/market/yingtan/forsale/ALL/11.html?sinceyear=1" title="鹰潭"> 鹰潭</a></span>
+                <span><a onclick="cityselecta('yk');" href="/market/yk/forsale/ALL/11.html?sinceyear=1" title="营口"> 营口</a></span>
+                <span><a onclick="cityselecta('yongzhou');" href="/market/yongzhou/forsale/ALL/11.html?sinceyear=1" title="永州"> 永州</a></span>
+                <span><a onclick="cityselecta('yl');" href="/market/yl/forsale/ALL/11.html?sinceyear=1" title="榆林"> 榆林</a></span>
+                <span><a onclick="cityselecta('yulin');" href="/market/yulin/forsale/ALL/11.html?sinceyear=1" title="玉林"> 玉林</a></span>
+                <span><a onclick="cityselecta('ys');" href="/market/ys/forsale/ALL/11.html?sinceyear=1" title="玉树"> 玉树</a></span>
+                <span><a onclick="cityselecta('yx');" href="/market/yx/forsale/ALL/11.html?sinceyear=1" title="玉溪"> 玉溪</a></span>
+                <span><a onclick="cityselecta('yy');" href="/market/yy/forsale/ALL/11.html?sinceyear=1" title="岳阳"> 岳阳</a></span>
+                <span><a onclick="cityselecta('yf');" href="/market/yf/forsale/ALL/11.html?sinceyear=1" title="云浮"> 云浮</a></span>
+                <span><a onclick="cityselecta('yuncheng');" href="/market/yuncheng/forsale/ALL/11.html?sinceyear=1" title="运城"> 运城</a></span>
+                  </div>
+      </li>
+      		        <li class="clearfix">
+       <span class="zimu">Z</span>
+        <div class="citylistbox">
+                <span><a onclick="cityselecta('zaozhuang');" href="/market/zaozhuang/forsale/ALL/11.html?sinceyear=1" title="枣庄"> 枣庄</a></span>
+                <span><a onclick="cityselecta('zj');" href="/market/zj/forsale/ALL/11.html?sinceyear=1" title="湛江"> 湛江</a></span>
+                <span><a onclick="cityselecta('zjj');" href="/market/zjj/forsale/ALL/11.html?sinceyear=1" title="张家界"> 张家界</a></span>
+                <span><a onclick="cityselecta('zjk');" href="/market/zjk/forsale/ALL/11.html?sinceyear=1" title="张家口"> 张家口</a></span>
+                <span><a onclick="cityselecta('zhangye');" href="/market/zhangye/forsale/ALL/11.html?sinceyear=1" title="张掖"> 张掖</a></span>
+                <span><a onclick="cityselecta('zhangzhou');" href="/market/zhangzhou/forsale/ALL/11.html?sinceyear=1" title="漳州"> 漳州</a></span>
+                <span><a onclick="cityselecta('zt');" href="/market/zt/forsale/ALL/11.html?sinceyear=1" title="昭通"> 昭通</a></span>
+                <span><a onclick="cityselecta('zq');" href="/market/zq/forsale/ALL/11.html?sinceyear=1" title="肇庆"> 肇庆</a></span>
+                <span><a onclick="cityselecta('zhenjiang');" href="/market/zhenjiang/forsale/ALL/11.html?sinceyear=1" title="镇江"> 镇江</a></span>
+                <span><a onclick="cityselecta('zz');" href="/market/zz/forsale/ALL/11.html?sinceyear=1" title="郑州"> 郑州</a></span>
+                <span><a onclick="cityselecta('zhongshan');" href="/market/zhongshan/forsale/ALL/11.html?sinceyear=1" title="中山"> 中山</a></span>
+                <span><a onclick="cityselecta('zw');" href="/market/zw/forsale/ALL/11.html?sinceyear=1" title="中卫"> 中卫</a></span>
+                <span><a onclick="cityselecta('zs');" href="/market/zs/forsale/ALL/11.html?sinceyear=1" title="舟山"> 舟山</a></span>
+                <span><a onclick="cityselecta('zk');" href="/market/zk/forsale/ALL/11.html?sinceyear=1" title="周口"> 周口</a></span>
+                <span><a onclick="cityselecta('zhuzhou');" href="/market/zhuzhou/forsale/ALL/11.html?sinceyear=1" title="株洲"> 株洲</a></span>
+                <span><a onclick="cityselecta('zh');" href="/market/zh/forsale/ALL/11.html?sinceyear=1" title="珠海"> 珠海</a></span>
+                <span><a onclick="cityselecta('zmd');" href="/market/zmd/forsale/ALL/11.html?sinceyear=1" title="驻马店"> 驻马店</a></span>
+                <span><a onclick="cityselecta('ziyang');" href="/market/ziyang/forsale/ALL/11.html?sinceyear=1" title="资阳"> 资阳</a></span>
+                <span><a onclick="cityselecta('zb');" href="/market/zb/forsale/ALL/11.html?sinceyear=1" title="淄博"> 淄博</a></span>
+                <span><a onclick="cityselecta('zg');" href="/market/zg/forsale/ALL/11.html?sinceyear=1" title="自贡"> 自贡</a></span>
+                <span><a onclick="cityselecta('zy');" href="/market/zy/forsale/ALL/11.html?sinceyear=1" title="遵义"> 遵义</a></span>
+                  </div>
+      </li>
+      </ul>		        <div class="clear"></div>
+
+<script type="text/javascript">
+	function cityselecta(city){
+		SetCookie('city',city,1000*3600*3600);
+	}
+</script></div>
